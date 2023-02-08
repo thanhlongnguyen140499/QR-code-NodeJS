@@ -1,0 +1,25 @@
+{
+  "name": "qr-code-nodejs",
+  "version": "1.0.0",
+  "description": "QR code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhlongnguyen140499/QR-code-NodeJS.git"
+  },
+  "author": "Edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhlongnguyen140499/QR-code-NodeJS/issues"
+  },
+  "homepage": "https://github.com/thanhlongnguyen140499/QR-code-NodeJS#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.4",
+    "qrcode": "^1.5.1",
+    "qrcode-reader": "^1.0.4"
+  }
+}
